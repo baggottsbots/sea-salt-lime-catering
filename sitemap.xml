@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://seasaltandlimecatering.com/</loc>
+    <lastmod>2026-11-21T23:14:10.706Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://seasaltandlimecatering.com/menu/</loc>
     <lastmod>2026-11-21T23:06:09.072Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -13,11 +18,6 @@
   <url>
     <loc>https://seasaltandlimecatering.com/about/</loc>
     <lastmod>2026-11-21T23:05:42.295Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://seasaltandlimecatering.com/</loc>
-    <lastmod>2026-11-21T23:05:29.294Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
