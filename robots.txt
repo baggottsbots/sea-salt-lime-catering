@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://baggottsbots.github.io/sea-salt-lime-catering/sitemap.xml
+Sitemap: https://seasaltandlimecatering.com/sitemap.xml
