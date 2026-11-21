@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baggottsbots.github.io/sea-salt-lime-catering/menu/</loc>
+    <loc>https://seasaltandlimecatering.com/</loc>
+    <lastmod>2026-11-21T23:05:29.294Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://seasaltandlimecatering.com/menu/</loc>
     <lastmod>2026-11-21T22:59:25.204Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://baggottsbots.github.io/sea-salt-lime-catering/contact/</loc>
+    <loc>https://seasaltandlimecatering.com/contact/</loc>
     <lastmod>2026-11-21T22:59:09.921Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://baggottsbots.github.io/sea-salt-lime-catering/about/</loc>
+    <loc>https://seasaltandlimecatering.com/about/</loc>
     <lastmod>2026-11-21T22:58:58.751Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/sea-salt-lime-catering/</loc>
-    <lastmod>2026-11-21T22:58:44.455Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
